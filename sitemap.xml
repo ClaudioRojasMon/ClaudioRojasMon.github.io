@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3005/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3006/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3005</loc>
+    <loc>http://localhost:3006</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/about</loc>
+    <loc>http://localhost:3006/about</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/proyectos</loc>
+    <loc>http://localhost:3006/proyectos</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/publicaciones</loc>
+    <loc>http://localhost:3006/publicaciones</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/blog</loc>
+    <loc>http://localhost:3006/servicios</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/formacion-tea</loc>
+    <loc>http://localhost:3006/contacto</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/denuncias-educacion</loc>
+    <loc>http://localhost:3006/blog</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/directivos-datos</loc>
+    <loc>http://localhost:3006/formacion-tea</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/identificacion-datos</loc>
+    <loc>http://localhost:3006/denuncias-educacion</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/sindrome-drip</loc>
+    <loc>http://localhost:3006/directivos-datos</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/ia-liberar-horas</loc>
+    <loc>http://localhost:3006/identificacion-datos</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/servicios</loc>
+    <loc>http://localhost:3006/sindrome-drip</loc>
   </url>
   <url>
-    <loc>http://localhost:3005/contacto</loc>
+    <loc>http://localhost:3006/ia-liberar-horas</loc>
   </url>
 </urlset>
