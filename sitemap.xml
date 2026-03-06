@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3002/sitemap_style.xsl" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>http://localhost:3002</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/about</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/proyectos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/publicaciones</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/blog</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/formacion-tea</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/denuncias-educacion</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/directivos-datos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/identificacion-datos</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/sindrome-drip</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/ia-liberar-horas</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/servicios</loc>
+  </url>
+  <url>
+    <loc>http://localhost:3002/contacto</loc>
+  </url>
+</urlset>
