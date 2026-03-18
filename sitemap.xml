@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="http://localhost:3001/sitemap_style.xsl" ?>
+<?xml-stylesheet type="text/xsl" href="http://localhost:3000/sitemap_style.xsl" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://localhost:3001</loc>
+    <loc>http://localhost:3000</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/about</loc>
+    <loc>http://localhost:3000/about</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/proyectos</loc>
+    <loc>http://localhost:3000/proyectos</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/publicaciones</loc>
+    <loc>http://localhost:3000/publicaciones</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/servicios</loc>
+    <loc>http://localhost:3000/servicios</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/contacto</loc>
+    <loc>http://localhost:3000/contacto</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/blog</loc>
+    <loc>http://localhost:3000/blog</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/formacion-tea</loc>
+    <loc>http://localhost:3000/formacion-tea</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/denuncias-educacion</loc>
+    <loc>http://localhost:3000/denuncias-educacion</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/directivos-datos</loc>
+    <loc>http://localhost:3000/directivos-datos</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/identificacion-datos</loc>
+    <loc>http://localhost:3000/identificacion-datos</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/sindrome-drip</loc>
+    <loc>http://localhost:3000/sindrome-drip</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/ia-liberar-horas</loc>
+    <loc>http://localhost:3000/ia-liberar-horas</loc>
   </url>
   <url>
-    <loc>http://localhost:3001/sesgos-ia</loc>
+    <loc>http://localhost:3000/sesgos-ia</loc>
   </url>
 </urlset>
