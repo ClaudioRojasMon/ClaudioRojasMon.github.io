@@ -23,6 +23,9 @@
     <loc>http://localhost:3000/blog</loc>
   </url>
   <url>
+    <loc>http://localhost:3000/formacion-inicial-fiscalizadores-educacion</loc>
+  </url>
+  <url>
     <loc>http://localhost:3000/formacion-tea</loc>
   </url>
   <url>
