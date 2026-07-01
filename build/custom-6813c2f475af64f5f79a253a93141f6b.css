@@ -1,0 +1,9 @@
+.navbar-brand img {
+  height: 90px !important;
+  max-height: 90px !important;
+}
+
+.rounded-circle {
+  border-radius: 50% !important;
+  object-fit: cover !important;
+}
