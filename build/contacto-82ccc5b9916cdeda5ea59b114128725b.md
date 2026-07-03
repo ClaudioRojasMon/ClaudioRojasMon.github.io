@@ -5,10 +5,6 @@ description: Cómo trabajar juntos
 
 # Contacto
 
-Claudio Rojas Monsalves
-
-[ORCID](https://orcid.org/0009-0007-0527-6689)
-
 ¿Interesado en colaborar, consultoría educativa, historia local, o quieres saber más
 sobre mis proyectos? Escríbeme, respondo en 24-48 horas.
 
