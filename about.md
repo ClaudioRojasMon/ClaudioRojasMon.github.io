@@ -1,22 +1,33 @@
+---
+title: Acerca de mí
+description: Mi perfil completo, trayectoria y formación
+---
+
 # Acerca de mí
 
+## 🎓 Historiador | Educador | Director Académico
 
-## 🎓 Docente | Directivo
-Transformo datos educacionales en insights accionables para mejorar 
-la toma de decisiones en mi entorno y discutir temas del sistema 
-escolar chileno.
+Empecé como profesor de Historia. Hoy soy Director Académico y trabajo con datos
+e IA aplicados a dos terrenos: la gestión escolar y la investigación de historia
+local. No cambié de oficio, cambié de herramientas — sigo haciendo la misma
+pregunta de fondo (entender procesos humanos en el tiempo), solo que ahora uso
+Python y análisis de datos además de archivos y fuentes.
 
-Mi enfoque: Identifico problemas educativos reales, diseño soluciones prácticas, y las implemento usando Python, R e IA. No soy programador de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto medible en instituciones educativas.
+Mi enfoque: identifico problemas reales —educativos o históricos—, diseño
+soluciones prácticas, y las implemento usando Python, R e IA. No soy programador
+de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto
+medible: en instituciones educativas, y en la manera en que se cuenta y se
+conserva la historia de mi región.
 
 ---
 
 ## 🔍 Mi expertise
 
+- **Licenciado en Historia** — Pontificia Universidad Católica de Chile
 - **20+ años** en gestión educativa (Docente, Profesor Universitario y Director Académico)
 - **Magíster** en Ciencias de Datos para la Innovación — Universidad de Concepción
 - **Magíster** en Gestión y Liderazgo Educacional — Pontificia Universidad Católica de Chile
-- **Licenciado en Historia** — Pontificia Universidad Católica de Chile
-- Combino conocimiento profundo del sistema educativo con Python, R y Machine Learning
+- Combino conocimiento profundo del sistema educativo y método histórico con Python, R y Machine Learning
 
 ---
 
@@ -33,15 +44,11 @@ Mi enfoque: Identifico problemas educativos reales, diseño soluciones práctica
 
 ## 🛠️ Stack técnico
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Python](https://claudiorojasmon.github.io/build/623c0f6ded9413d04ef133a2be68762a.svg)![R](https://claudiorojasmon.github.io/build/432f0176e96d16050dd6b5e3981c2793.svg)![Jupyter](https://claudiorojasmon.github.io/build/b1ad3e874ee475939f882016dcd1add9.svg)![Pandas](https://claudiorojasmon.github.io/build/3bb9ff428907cbada90471bf31a660c1.svg)![Git](https://claudiorojasmon.github.io/build/8f77cf76ea59f44ca19937eeffac4d64.svg)
 
-**Machine Learning:** K-means clustering, análisis predictivo, modelado estadístico  
-**Business Intelligence:** Looker Studio, dashboards interactivos  
-**IA Generativa:** Claude, ChatGPT, Gemini — Prompt engineering  
+**Machine Learning:** K-means clustering, análisis predictivo, modelado estadístico
+**Business Intelligence:** Looker Studio, dashboards interactivos
+**IA Generativa:** Claude, ChatGPT, Gemini — Prompt engineering
 **Plataformas:** Jupyter Book, Google Classroom, GitHub
 
 ---
@@ -53,6 +60,7 @@ Mi enfoque: Identifico problemas educativos reales, diseño soluciones práctica
 - Optimización de agrupamientos estudiantiles con K-means
 - Análisis de políticas educativas con datos
 - Formación docente en IA generativa y datos
+- Investigación y divulgación de historia local de Puerto Montt y la región
 
 ---
 
@@ -65,13 +73,6 @@ Mi enfoque: Identifico problemas educativos reales, diseño soluciones práctica
 
 ---
 
-## 📫 Conectemos
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-andrés-rojas-monsalves-a035a12a/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ClaudioRojasMon)
-[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0527-6689)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:crojasmon@gmail.com)
-
----
-
-💡 *Director Académico en ejercicio, construyendo paralelamente un portafolio en consultoría educativa, analítica de datos e IA aplicada a la escuela — preparando el camino hacia nuevos desafíos profesionales.*
+💡 *Director Académico en ejercicio, historiador de formación, construyendo en
+paralelo Bitácoralab: un espacio donde datos, IA, gestión educativa e historia
+local conviven bajo el mismo método de trabajo.*

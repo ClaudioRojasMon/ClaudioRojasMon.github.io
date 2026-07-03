@@ -1,6 +1,19 @@
-.navbar-brand img {
+/* Logo del header — tamaño y contenedor */
+.navbar-brand img,
+header img,
+nav img {
   height: 90px !important;
+  width: auto !important;
   max-height: 90px !important;
+  max-width: none !important;
+}
+
+.navbar-brand,
+header nav,
+nav.navbar {
+  height: auto !important;
+  min-height: 100px !important;
+  align-items: center !important;
 }
 
 .rounded-circle {

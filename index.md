@@ -19,10 +19,6 @@ keywords: [historia, educación, datos, inteligencia artificial, Chile, Puerto M
 
 # Bitácoralab 🧭
 
-Claudio Rojas Monsalves
-
-[contacto@bitacoralab.cl](mailto:contacto@bitacoralab.cl) · [ORCID](https://orcid.org/0009-0007-0527-6689)
-
 **Bitácora de trabajo entre la historia, la educación, los datos y la IA.**
 
 🎓 Licenciado en Historia (PUC) — hoy Director Académico y Educational Data Scientist
@@ -72,10 +68,3 @@ aplicada a preguntas distintas.
 ---
 
 📍 Puerto Montt, Chile · [LinkedIn](https://www.linkedin.com/in/claudio-andr%C3%A9s-rojas-monsalves-a035a12a/) · [GitHub](https://github.com/ClaudioRojasMon) · [ORCID](https://orcid.org/0009-0007-0527-6689) · [Email](mailto:contacto@bitacoralab.cl)
-re datos, IA y gestión escolar |
-| [Servicios](servicios.md) | Consultoría, talleres y charlas |
-| [Contacto](contacto.md) | Cómo trabajar juntos |
-
----
-
-📍 Puerto Montt, Chile · [LinkedIn](https://www.linkedin.com/in/claudio-andrés-rojas-monsalves-a035a12a/) · [GitHub](https://github.com/ClaudioRojasMon) · [ORCID](https://orcid.org/0009-0007-0527-6689) · [Email](mailto:crojasmon@gmail.com)
