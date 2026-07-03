@@ -1,69 +1,115 @@
 # Servicios
 
-Ofrezco consultoría especializada en la intersección entre educación, 
-datos e inteligencia artificial.
+```{image} _static/Logo2.png
+:width: 450px
+:align: center
+```
 
 ---
 
-## 📊 Análisis de Datos Educativos
+Trabajo con directivos, docentes y equipos de gestión que quieren mejorar
+resultados sin depender de consultoras genéricas. Todo lo que ofrezco lo he
+implementado primero en mi propio colegio.
 
-Diseño e implementación de sistemas para transformar datos escolares en 
-decisiones pedagógicas concretas.
-
-- Sistemas de Business Intelligence académico
-- Dashboards interactivos para directivos
-- Análisis predictivo de rendimiento académico
-- Identificación temprana de estudiantes en riesgo
 
 ---
 
-## 🤖 Implementación de IA en Educación
+## 🤖 IA Generativa para la gestión académica y pedagógica
 
-Acompañamiento a instituciones que quieren integrar IA de forma ética y efectiva.
+> *"Los docentes usan ChatGPT de forma caótica y sin criterio pedagógico. Los directivos no saben cómo orientarlos."*
 
-- Diseño de políticas institucionales de uso ético
-- Formación docente en herramientas de IA generativa
-- Evaluación de impacto de IA en aprendizaje
+Acompañamiento integral para instituciones que quieren integrar IA de forma
+ordenada, ética y con impacto real en el aula y en la toma de decisiones.
 
----
+**¿Qué incluye?**
 
-## 📈 Gestión Basada en Evidencia
+* Diagnóstico del uso actual de IA en tu institución
+* Diseño participativo de una política institucional de uso ético (basada en orientaciones UNESCO y MINEDUC)
+* Talleres prácticos con Claude, ChatGPT y Gemini: prompts para planificación, evaluación y retroalimentación
+* Formación en asistentes virtuales docentes personalizados (sin conocimientos técnicos previos)
+* Acompañamiento para equipos directivos: IA para análisis de datos, informes y comunicación
 
-Apoyo a equipos directivos para tomar decisiones fundamentadas en datos.
+**Resultado esperado:** Docentes que usan IA con criterio pedagógico, no por intuición.
+Política institucional lista para implementar desde el primer día.
 
-- Sistemas de monitoreo de aprendizaje
-- Diseño de indicadores educativos
-- Evaluación institucional
+**Para quién:**  Sostenedores, Equipos Directivos, SLEP, redes educativas.
 
----
-
-## 💻 Formación y Capacitación
-
-Talleres prácticos para docentes y directivos, sin necesidad de conocimientos 
-técnicos previos.
-
-- Talleres de Python para educadores
-- Introducción a Data Science en educación
-- Uso responsable de IA generativa
+**Formato:** Presencial u online · 8 a 16 horas · hasta 30 participantes
 
 ---
 
-## 🎤 Charlas y Presentaciones
+## 📊 Análisis de datos educativos y Business Intelligence académico
 
-Disponible para charlas, talleres y webinars sobre:
+> *"Generamos informes cada semana, pero tardamos días y nadie los lee."*
 
-- Innovación educativa con datos
-- IA en el aula: oportunidades y límites
-- Gestión escolar basada en evidencia
+Diseño e implementación de sistemas para transformar datos escolares en
+decisiones pedagógicas concretas, accesibles para directivos sin conocimientos técnicos.
+
+**¿Qué incluye?**
+
+* Plataforma de monitoreo académico en tiempo real (Looker Studio)
+* Dashboards interactivos de rendimiento, asistencia y riesgo académico
+* Análisis predictivo e identificación temprana de estudiantes en riesgo
+* Automatización de informes que antes tomaban horas
+* Taller para equipos directivos y UTP: cómo leer y actuar sobre los datos
+
+**Resultado real en SFJ:** 80% de reducción en tiempo de generación de informes.
+Directivos con información accionable disponible cada semana.
+
+**Para quién:** Directores, , Equipos Directivos, Sostenedores,
+
+**Formato:** Consultoría + taller · 2 días de implementación + seguimiento
 
 ---
 
-## 🌱 Proyectos sin fines de lucro
+## 📈 Gestión escolar basada en evidencia
 
-Doy prioridad a proyectos educativos sin fines de lucro y colaboraciones 
-con instituciones públicas. Si tienes un proyecto que busca impacto social, 
-conversemos.
+> *"Tomamos decisiones importantes con poca información sistemática."*
+
+Apoyo a equipos directivos para construir una cultura de decisiones fundamentadas
+en datos, no en intuición o urgencia.
+
+**¿Qué incluye?**
+
+* Diseño de sistemas de monitoreo de aprendizaje
+* Construcción de indicadores educativos relevantes y medibles
+* Evaluación institucional con foco en mejora continua
+* Lectura e interpretación de resultados SIMCE, PAES y evaluaciones internas
+
+**Para quién:** Directores, Equipos Directivos, Sostenedores.
+
+**Formato:** Consultoría modular · adaptable a cada institución
+
+---
+
+## 🎤 Charlas y webinars
+
+Disponible para congresos, jornadas de sostenedores y eventos de redes educativas.
+Charlas con casos reales, sin buzzwords vacíos.
+
+**Temas disponibles:**
+
+* IA generativa en el aula: oportunidades, riesgos y límites concretos
+* Gestión escolar basada en evidencia: de los datos a las decisiones
+* El director académico del futuro: datos, IA y liderazgo pedagógico
+* Cómo construir una política institucional de IA desde adentro
+
+**Formato:** Presencial u online · 60 a 90 minutos
+
+
+---
+
+## ¿Por dónde partir?
+
+No todos los colegios necesitan lo mismo. Escríbeme y en 15 minutos
+identificamos qué le haría más sentido a tu institución.
+
+
 
 ---
 
 ¿Te interesa alguno de estos servicios? → [Contáctame](contacto.md)
+
+---
+
+

@@ -1,24 +1,35 @@
 version: 1
 project:
   id: 0f2a919b-3936-4789-a9df-3edd4d245b2e
-  title: Claudio Rojas Monsalves
-  description: Educational Data Scientist | Director Académico | Analítica Educativa
-  keywords: [educación, datos, inteligencia artificial, Chile]
+  title: Bitácoralab
+  description: Datos e IA aplicados a la educación y a la historia local | Claudio Rojas Monsalves
+  keywords: [historia, educación, datos, inteligencia artificial, Chile, Puerto Montt]
   authors:
     - name: Claudio Rojas Monsalves
-      email: crojasmon@gmail.com
+      email: contacto@bitacoralab.cl
+      orcid: 0009-0007-0527-6689
   github: https://github.com/ClaudioRojasMon
   toc:
-    - file: index
-    - file: about
-    - file: proyectos
-    - file: publicaciones
-    - file: blog
-    - file: servicios
-    - file: contacto
+    - file: index.md
+    - file: about.md
+    - file: datos-ia.md
+    - file: asesoria-educativa.md
+    - file: historia-local.md
+    - file: publicaciones.md
+    - file: contacto.md
+    - file: blog.md
+      children:
+        - file: posts/formacion-inicial-fiscalizadores-educacion.md
+        - file: posts/formacion-tea.md
+        - file: posts/denuncias-educacion.md
+        - file: posts/directivos-datos.md
+        - file: posts/identificacion-datos.md
+        - file: posts/sindrome-drip.md
+        - file: posts/ia-liberar-horas.md
+        - file: posts/sesgos-ia.md
 site:
   template: book-theme
-  title: Claudio Rojas Monsalves
+  title: Bitácoralab
   options:
-    logo: _static/Logo.png
+    logo: _static/Logo-completo2.png
     style: _static/custom.css

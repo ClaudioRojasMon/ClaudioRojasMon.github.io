@@ -1,9 +1,12 @@
 # Acerca de mí
 
 
-## 🎓 Educational Data Scientist | Director Académico | Analítica Educativa
+## 🎓 Docente | Directivo
+Transformo datos educacionales en insights accionables para mejorar 
+la toma de decisiones en mi entorno y discutir temas del sistema 
+escolar chileno.
 
-Transformo datos educacionales en insights accionables para mejorar la toma de decisiones en el sistema escolar chileno. Llevo 20+ años en educación, combinando liderazgo pedagógico con ciencia de datos e inteligencia artificial.
+Mi enfoque: Identifico problemas educativos reales, diseño soluciones prácticas, y las implemento usando Python, R e IA. No soy programador de profesión, pero sí alguien que sabe usar estas herramientas para crear impacto medible en instituciones educativas.
 
 ---
 
@@ -66,6 +69,7 @@ Transformo datos educacionales en insights accionables para mejorar la toma de d
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/claudio-andrés-rojas-monsalves-a035a12a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ClaudioRojasMon)
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0007-0527-6689)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:crojasmon@gmail.com)
 
 ---

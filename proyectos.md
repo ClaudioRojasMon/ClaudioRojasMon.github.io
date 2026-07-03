@@ -7,20 +7,16 @@ ciencia de datos e inteligencia artificial.
 
 ## 📖 Libro Interactivo: Programando con la Historia (2026)
 
-**¿Qué es?** Material autodidacta para estudiantes de II medio en un electivo de 
-Tecnología. Enseña de forma integrada: pensamiento crítico sobre Inteligencia 
-Artificial, Markdown, Google Sheets y Python básico, todo usando ejemplos y 
-contextos históricos reales.
 
-**¿Cómo está construido?** Jupyter Book con ejemplos prácticos, ejercicios 
-interactivos y código ejecutable integrado. Es una mejora significativa sobre 
-la versión 2024.
+🏆 Destacado en la [![Featured](https://img.shields.io/badge/Featured-Executable%20Books%20Gallery-success)](https://executablebooks.org/en/latest/gallery/)
 
-**Tecnologías:** Jupyter Book · Python · Markdown · Google Sheets
+Material educativo interactivo para estudiantes de II° medio en el electivo de Tecnología. Enseña de forma integrada pensamiento crítico sobre Inteligencia Artificial, Markdown, Google Sheets y Python básico usando ejemplos históricos de Chile y el mundo. Construido con Jupyter Book — versión 2026 completamente renovada.
 
-🔗 [Acceder al libro](https://claudiorojasmon.github.io/apuntes_2025/intro.html) · 
-[Ver en GitHub](https://github.com/ClaudioRojasMon)
+**Tecnologías:** Jupyter Book · Python · Markdown · Google Sheets · Pandas · Matplotlib
 
+📄 DOI: [10.5281/zenodo.18490458](https://doi.org/10.5281/zenodo.18490458) · 🔓 Licencia: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+🔗 [Acceder al libro](https://claudiorojasmon.github.io/apuntes_2025/) · [Ver en GitHub](https://github.com/ClaudioRojasMon/apuntes_2025)
 ---
 
 ## 📊 Sistema de Business Intelligence Académico (2024-2025)
@@ -83,6 +79,9 @@ trabajo basados en el modelo pedagógico SABER-MOSTRAR.
 ---
 
 ## 📗 Libro Interactivo: Programación Python para Educación Media (2024)
+
+🏆 **Destacado en la** [![Executable Books Gallery](https://img.shields.io/badge/Executable%20Books-Gallery-blue)](https://executablebooks.org/en/latest/gallery/)
+
 
 **¿Qué es?** Material autodidacta para introducir Python a estudiantes de educación 
 media sin conocimientos previos de programación. Usa ejemplos cercanos al 
