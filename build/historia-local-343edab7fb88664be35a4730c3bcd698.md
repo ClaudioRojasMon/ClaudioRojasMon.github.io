@@ -32,6 +32,26 @@ renovada.
 Este proyecto es, en cierto sentido, el resumen de Bitácoralab: historia como
 contenido, datos y programación como herramienta de enseñanza.
 
+---
+
+## 📰 El pastor que exploró el Lago Chapo y desapareció sin dejar rastro (2026)
+
+Columna publicada en **El Llanquihue** el 16 de agosto de 2026, sobre la
+investigación del pastor Paul Saemann y su exploración del Lago Chapo a fines
+del siglo XIX.
+
+![Columna publicada en El Llanquihue sobre Paul Saemann](_static/Columna-llanquihue.png)
+
+📄 Fuente: El Llanquihue, 16 de agosto de 2026
+
+## 🎧  Entrevista telefónica sobre la historia del Lago Chapo (desde el minuto 10:44):
+
+[ver en YouTube](https://youtu.be/aTytLDN4utA?si=wMkxnfekF0aoMK_E&t=644s)
+
+
+📄 Fuente: Patagonia Radio TV, 01 de septiembre 2026
+
+
 **Tecnologías:** Jupyter Book · Python · Markdown · Google Sheets · Pandas · Matplotlib
 
 📄 DOI: [Rojas Monsalves (2026)](https://doi.org/10.5281/ZENODO.18490458) · 🔓 Licencia: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
