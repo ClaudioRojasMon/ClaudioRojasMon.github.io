@@ -51,6 +51,13 @@ del siglo XIX.
 
 📄 Fuente: Patagonia Radio TV, 01 de septiembre 2026
 
+## 🎧  Semillas, colonos y registros de 1892: el desconocido patrimonio de Lago Chapo que buscan rescatar
+
+[ver en Patagonia Radio](https://patagoniaradio.cl/historia-lago-chapo-semillas-colonos-registros-1892)
+
+
+📄 Fuente: Patagonia Radio TV, 03 de septiembre 2026
+
 
 **Tecnologías:** Jupyter Book · Python · Markdown · Google Sheets · Pandas · Matplotlib
 
