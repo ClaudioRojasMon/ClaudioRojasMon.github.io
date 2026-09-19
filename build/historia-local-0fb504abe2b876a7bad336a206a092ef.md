@@ -54,6 +54,24 @@ Columna publicada en **El Llanquihue** el 13 de septiembre de 2026, sobre Puerto
 
 ---
 
+## 🧰 Skills de investigación para Claude
+
+Cinco skills de Claude (Anthropic), extraídas y generalizadas del flujo de
+trabajo real de esta investigación: análisis de fuentes históricas, transcripción
+de documentos alemanes en escritura gótica (Kurrent/Fraktur), generación y
+conversión de referencias bibliográficas, redacción de correos a archivos e
+instituciones, y adaptación de textos académicos a formato divulgativo.
+
+Nacieron como herramientas privadas para la investigación sobre el pastor Paul
+Saemann y el Lago Chapo, y se liberaron en versión genérica para que cualquier
+historiador o investigador pueda adaptarlas a su propio proyecto.
+
+🔓 Licencia: MIT
+
+🔗 [Ver en GitHub](https://github.com/ClaudioRojasMon/claude-skills-historia)
+
+---
+
 ## 📖 Programando con la Historia 
 
 🏆 Destacado en la [Executable Books Gallery](https://executablebooks.org/en/latest/gallery/)
