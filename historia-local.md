@@ -52,6 +52,14 @@ Columna publicada en **El Llanquihue** el 13 de septiembre de 2026, sobre Puerto
 
 📄 Fuente: El Llanquihue, 13 de septiembre de 2026
 
+### 📰 Cuando Krupp quiso instalar un alto horno junto al Lago Chapo
+
+Columna publicada en **El Llanquihue** el 1 de noviembre de 2026, sobre el proyecto de 1921 para que la casa Krupp instalara altos hornos en bosques fiscales de la provincia de Llanquihue, junto al Lago Chapo, y sobre el contexto europeo del Tratado de Versalles que lo explica.
+
+![Columna Cuando Krupp quiso instalar un alto horno junto al Lago Chapo](_static/Krupp-Llanquihue.jpg)
+
+📄 Fuente: El Llanquihue, 1 de noviembre de 2026
+
 ---
 
 ## 🧰 Skills de investigación para Claude
