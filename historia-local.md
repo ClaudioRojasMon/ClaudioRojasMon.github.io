@@ -19,10 +19,12 @@ oficio de gestión escolar.
 
 ---
 
-## 📰 Columnas y divulgación
+## 📰 Columnas en El Llanquihue
 
+Serie mensual de divulgación de mi investigación sobre la historia de Puerto Montt
+y el Lago Chapo. Orden cronológico.
 
-### 📰 El pastor que exploró el Lago Chapo y desapareció sin dejar rastro
+### El pastor que exploró el Lago Chapo y desapareció sin dejar rastro
 
 Columna publicada en **El Llanquihue** el 16 de agosto de 2026, sobre la
 investigación del pastor Paul Saemann y su exploración del Lago Chapo a fines
@@ -32,33 +34,49 @@ del siglo XIX.
 
 📄 Fuente: El Llanquihue, 16 de agosto de 2026
 
-### 🎧  Entrevista telefónica sobre la historia del Lago Chapo (desde el minuto 10:44):
+**Cómo citar:** Rojas Monsalves, C. (2026). *El pastor que exploró el Lago Chapo y desapareció sin dejar rastro*. El Llanquihue, 16 de agosto de 2026.
 
-[ver en YouTube](https://youtu.be/aTytLDN4utA?si=wMkxnfekF0aoMK_E&t=644s)
+### Puerto Montt, nodo de una red científica en el siglo XIX
 
-📄 Fuente: Patagonia Radio TV, 01 de septiembre 2026
-
-### 🎧  Semillas, colonos y registros de 1892: el desconocido patrimonio de Lago Chapo que buscan rescatar
-
-[ver en Patagonia Radio](https://patagoniaradio.cl/historia-lago-chapo-semillas-colonos-registros-1892)
-
-📄 Fuente: Patagonia Radio TV, 03 de septiembre 2026
-
-### 📰 Puerto Montt, nodo de una red cientifica en el siglo XIX
-
-Columna publicada en **El Llanquihue** el 13 de septiembre de 2026, sobre Puerto Montt como nodo de una red científica que, durante el siglo XIX, conectó a exploradores, científicos y otros actores en la producción y circulación de conocimiento sobre el sur de Chile.
+Columna publicada en **El Llanquihue** el 13 de septiembre de 2026, sobre Puerto
+Montt como nodo de una red científica que, durante el siglo XIX, conectó a
+exploradores, científicos y otros actores en la producción y circulación de
+conocimiento sobre el sur de Chile.
 
 ![Columna Puerto Montt, Nodo Científico](_static/Nodo-Cientifico.png)
 
 📄 Fuente: El Llanquihue, 13 de septiembre de 2026
 
-### 📰 Cuando Krupp quiso instalar un alto horno junto al Lago Chapo
+**Cómo citar:** Rojas Monsalves, C. (2026). *Puerto Montt, nodo de una red científica en el siglo XIX*. El Llanquihue, 13 de septiembre de 2026.
 
-Columna publicada en **El Llanquihue** el 1 de noviembre de 2026, sobre el proyecto de 1921 para que la casa Krupp instalara altos hornos en bosques fiscales de la provincia de Llanquihue, junto al Lago Chapo, y sobre el contexto europeo del Tratado de Versalles que lo explica.
+### Cuando Krupp quiso instalar un alto horno junto al Lago Chapo
+
+Columna publicada en **El Llanquihue** el 1 de noviembre de 2026, sobre el
+proyecto de 1921 para que la casa Krupp instalara altos hornos en bosques fiscales
+de la provincia de Llanquihue, junto al Lago Chapo, y sobre el contexto europeo
+del Tratado de Versalles que lo explica.
 
 ![Columna Cuando Krupp quiso instalar un alto horno junto al Lago Chapo](_static/Krupp-Llanquihue.jpg)
 
 📄 Fuente: El Llanquihue, 1 de noviembre de 2026
+
+**Cómo citar:** Rojas Monsalves, C. (2026). *Cuando Krupp quiso instalar un alto horno junto al Lago Chapo*. El Llanquihue, 1 de noviembre de 2026.
+
+---
+
+## 🎧 Entrevistas y apariciones en medios
+
+### Entrevista telefónica sobre la historia del Lago Chapo (desde el minuto 10:44)
+
+[ver en YouTube](https://youtu.be/aTytLDN4utA?si=wMkxnfekF0aoMK_E&t=644s)
+
+📄 Fuente: Patagonia Radio TV, 1 de septiembre de 2026
+
+### Semillas, colonos y registros de 1892: el desconocido patrimonio de Lago Chapo que buscan rescatar
+
+[ver en Patagonia Radio](https://patagoniaradio.cl/historia-lago-chapo-semillas-colonos-registros-1892)
+
+📄 Fuente: Patagonia Radio TV, 3 de septiembre de 2026
 
 ---
 
@@ -80,7 +98,7 @@ historiador o investigador pueda adaptarlas a su propio proyecto.
 
 ---
 
-## 📖 Programando con la Historia 
+## 📖 Programando con la Historia
 
 🏆 Destacado en la [Executable Books Gallery](https://executablebooks.org/en/latest/gallery/)
 
@@ -93,7 +111,6 @@ renovada.
 Este proyecto es, en cierto sentido, el resumen de Bitácoralab: historia como
 contenido, datos y programación como herramienta de enseñanza.
 
-
 **Tecnologías:** Jupyter Book · Python · Markdown · Google Sheets · Pandas · Matplotlib
 
 📄 DOI: [Rojas Monsalves (2026)](https://doi.org/10.5281/ZENODO.18490458) · 🔓 Licencia: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -101,4 +118,3 @@ contenido, datos y programación como herramienta de enseñanza.
 🔗 [Acceder al libro](https://claudiorojasmon.github.io/apuntes_2025/) · [Ver en GitHub](https://github.com/ClaudioRojasMon/apuntes_2025)
 
 ---
-
